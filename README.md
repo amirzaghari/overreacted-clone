@@ -10,7 +10,6 @@ This project is a clone of Dan Abramov's personal blog [Overreacted](https://ove
 - **Data Fetching**: Uses `react-query` to fetch posts from [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts).
 - **TypeScript**: Optional setup for type safety.
 - **Sass/CSS Modules**: Used for styling.
-- **Unit Testing**: Includes tests for components and functionality.
 
 ## Tech Stack
 - **Next.js**: Framework for server-side rendering and static site generation.
@@ -22,7 +21,7 @@ This project is a clone of Dan Abramov's personal blog [Overreacted](https://ove
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR_USERNAME/overreacted-clone.git
+   git clone https://github.com/amirzaghari/overreacted-clone.git
    ```
 2. Navigate to the project directory:
    ```
@@ -48,12 +47,6 @@ npm run build
 After building, you can start the server with:
 ```
 npm start
-```
-
-## Testing
-To run tests, use:
-```
-npm run test
 ```
 
 ## Contributing
