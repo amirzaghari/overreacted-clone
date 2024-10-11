@@ -56,18 +56,6 @@ To run tests, use:
 npm run test
 ```
 
-## Folder Structure
-```
-.
-├── components/       # Reusable components like ThemeToggle
-├── pages/            # Next.js pages (Home, Post)
-│   ├── index.js      # Home page
-│   └── post/[id].js  # Post page
-├── store/            # Redux store and slices
-├── styles/           # SCSS and CSS modules
-└── README.md         # Project documentation
-```
-
 ## Contributing
 Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
